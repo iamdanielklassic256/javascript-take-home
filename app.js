@@ -1,0 +1,1 @@
+console.log('I am running javascript on a browser that supports it')
